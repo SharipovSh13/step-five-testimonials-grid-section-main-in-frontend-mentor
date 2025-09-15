@@ -29,6 +29,8 @@ section {
   padding: 10px 25px;
   background-color: hsl(263, 55%, 52%);
   border-radius: 12px;
+
+  margin:auto;
 }
 .user-name {
   font-weight: 400;
@@ -126,8 +128,8 @@ footer {
   border-radius: 12px;
   font-weight: 600;
   color: hsla(0, 1%, 35%, 1);
-  width: 95%;
-  margin:50px; auto;
+  width: 90%;
+  margin:20px; auto;
 }
 a {
   text-decoration: none;
