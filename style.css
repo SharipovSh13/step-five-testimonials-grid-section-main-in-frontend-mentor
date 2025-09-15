@@ -29,6 +29,8 @@ section {
   padding: 10px 25px;
   background-color: hsl(263, 55%, 52%);
   border-radius: 12px;
+
+  margin:auto;
 }
 .user-name {
   font-weight: 400;
@@ -121,16 +123,13 @@ section {
   }
 }
 footer {
-  background-color: hsla(273, 93%, 62%, 1);
-  padding: 20px;
+  font-family: "Barlow Semi Condensed", sans-serif;
   text-align: center;
   border-radius: 12px;
-  font-family: "Barlow Semi Condensed", sans-serif;
-  white-space: normal;
   font-weight: 600;
-  color: hsl(0, 0%, 81%);
-  width: 95%;
-  margin: auto;
+  color: hsla(0, 1%, 35%, 1);
+  width: 90%;
+  margin:20px; auto;
 }
 a {
   text-decoration: none;
